@@ -1,0 +1,10 @@
+package Good;
+
+public class wer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
